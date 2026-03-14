@@ -1,0 +1,11 @@
+{
+  "name": "pavlov",
+  "private": true,
+  "description": "Pavlov — Configurable gamification engine for React.",
+  "scripts": {
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "devDependencies": {}
+}
